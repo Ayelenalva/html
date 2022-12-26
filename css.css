@@ -1,0 +1,48 @@
+form{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 3px;
+    font-size: 20px;
+    width: 300px;
+    margin: 0 auto;
+    box-shadow: 0px 15px 25px rgba(14, 13, 13, 0.5);
+}
+input, textarea{
+    border: 0;
+    width: 280px;
+}
+.field{
+    border: solid 1px #ccc;
+    padding: 10px;
+    width: 280px;
+}
+.field:focus{
+    border-color: rgb(21, 147, 197);
+}
+.center-content{
+    text-align: center;
+}
+.btn-blue{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+
+
+
+}
+.h1{
+    margin-left: 499px;
+    width: 300px;
+    padding: 20px;
+    background: white;
+    border-radius: 3px;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+    color: rgb(102, 151, 207);
+    text-align: center;
+}
